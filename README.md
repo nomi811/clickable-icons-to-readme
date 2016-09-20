@@ -4,9 +4,11 @@ First you need to download the icons you want.  Do a Google search for free icon
 
 They need to be in a PNG, GIF, JPG, DOCX, PPTX, XLSX, TXT, PDF, or ZIP format.  I edited mine in Adobe Illustrator to change file type and to size down to 40px square with a surrounding area of 70px square.
 
-On your repo that you want to add the icons to, create an issue.  Drag and drop the icon file into the issue window.  Wait for it to download, then it will give you a link.  Copy and paste this link into your Readme file at the location you want the icon to appear. I had mine all in a row with pipe symbols in between and lines on top and bottom. It looks like this:
+On your repo that you want to add the icons to, create an issue.  Drag and drop the icon file into the issue window.  Wait for it to download, then it will give you a link.  Copy and paste this link into your Readme file at the location you want the icon to appear. Don't delete the issue, but you can close it.  
 
-PS this is a screenshot, so it's not clickable. Go to the bottom of the page to try it out.
+I had mine all in a row with pipe symbols in between and lines on top and bottom. It looks like this:
+
+(PS this is a screenshot, so it's not clickable. Go to the bottom of the page to try it out.)
 
 ![screen shot 2016-09-20 at 10 58 23 am](https://cloud.githubusercontent.com/assets/17016297/18678323/49cdf790-7f21-11e6-9b23-2fe9963df9db.png)
 
