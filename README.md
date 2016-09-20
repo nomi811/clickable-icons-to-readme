@@ -19,11 +19,11 @@ And the code looks like this:
 ---
 ```
 
-If you break down the code for one icon it is
+If you break down the code for one icon it is:
 
 `[![github](https://cloud.githubusercontent.com/assets/17016297/18654066/e5c135dc-7ea3-11e6-8cf6-6a8f628897bc.png)][1]`
 
-were the `[1]` at the end corresponds to the numbered link you create in the next step.
+where the `[1]` at the end corresponds to the numbered link you create in the next step.
 
 At the bottom of the file, create a numbered list for all your various account links.  I'm talking about social media links, but it could be any type link.  The code will be in this format:
 
