@@ -47,5 +47,10 @@ The code needs to be a tiny bit different.
 Hope this was helpful!!
 
 [1]: http://www.github.com/nomi811
+[2]: https://www.linkedin.com/in/nomi-vos-097aa082
+[3]: https://www.behance.net/nvoswork1533
+[4]: https://www.facebook.com/nomi.vos
 
-[![github](https://cloud.githubusercontent.com/assets/17016297/18654066/e5c135dc-7ea3-11e6-8cf6-6a8f628897bc.png)][1]
+---
+|[![github](https://cloud.githubusercontent.com/assets/17016297/18654066/e5c135dc-7ea3-11e6-8cf6-6a8f628897bc.png)][1]|[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18654069/e7e21930-7ea3-11e6-89cf-37329de79b36.png)][2]|[![behance](https://cloud.githubusercontent.com/assets/17016297/18654062/e2e79c48-7ea3-11e6-9b5c-3da110b8a2dd.png)][3]|[![facebook](https://cloud.githubusercontent.com/assets/17016297/18654065/e42ed904-7ea3-11e6-94eb-ea5d66dfd191.png)][4]|
+---
