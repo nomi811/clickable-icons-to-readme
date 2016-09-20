@@ -8,9 +8,10 @@ On your repo that you want to add the icons to, create an issue.  Drag and drop 
 
 I had mine all in a row with pipe symbols in between and lines on top and bottom. It looks like this:
 
-(PS this is a screenshot, so it's not clickable. Go to the bottom of the page to try out my clickable Github icon.)
 
 ![screen shot 2016-09-20 at 10 58 23 am](https://cloud.githubusercontent.com/assets/17016297/18678323/49cdf790-7f21-11e6-9b23-2fe9963df9db.png)
+
+(Psst... this is a screenshot, so it's not clickable. Go to the bottom of the page to try out my clickable icons.)
 
 And the code looks like this:
 ```
@@ -25,7 +26,7 @@ If you break down the code for one icon it is:
 
 where the content in the first set of square brackets is the link created by dragging and dropping your image file into the repo issue window and the `[1]` at the end corresponds to the numbered link you will create in the next step.
 
-At the bottom of the file, create a numbered list for all your various account links.  I'm talking about social media links, but it could be any type link.  The code will be in this format:
+At the bottom of the file, create a numbered list for all your various account links.  I'm talking about social media links, but it could be any type of link.  The code will be in this format:
 
 ```
 [1]: http://www.github.com/your_contact_info
