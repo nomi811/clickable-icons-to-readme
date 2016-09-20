@@ -42,6 +42,6 @@ The code needs to be a tiny bit different.
 
 Hope this was helpful!!
 
-[1]: http://www.github.com/your_contact_info
+[1]: http://www.github.com/nomi811
 
 [![github](https://cloud.githubusercontent.com/assets/17016297/18654066/e5c135dc-7ea3-11e6-8cf6-6a8f628897bc.png)][1]
