@@ -1,4 +1,4 @@
-# How to add clickable icons to Readme file on Github
+# How to add clickable icons to your Readme file on Github
 
 First you need to download the icons you want.  Do a Google search for free icons.
 
@@ -8,7 +8,7 @@ On your repo that you want to add the icons to, create an issue.  Drag and drop 
 
 I had mine all in a row with pipe symbols in between and lines on top and bottom. It looks like this:
 
-(PS this is a screenshot, so it's not clickable. Go to the bottom of the page to try it out.)
+(PS this is a screenshot, so it's not clickable. Go to the bottom of the page to try out my clickable Github icon.)
 
 ![screen shot 2016-09-20 at 10 58 23 am](https://cloud.githubusercontent.com/assets/17016297/18678323/49cdf790-7f21-11e6-9b23-2fe9963df9db.png)
 
@@ -23,7 +23,7 @@ If you break down the code for one icon it is:
 
 `[![github](https://cloud.githubusercontent.com/assets/17016297/18654066/e5c135dc-7ea3-11e6-8cf6-6a8f628897bc.png)][1]`
 
-where the `[1]` at the end corresponds to the numbered link you create in the next step.
+where the content in the first set of square brackets is the link created by dragging and dropping your image file into the repo issue window and the `[1]` at the end corresponds to the numbered link you will create in the next step.
 
 At the bottom of the file, create a numbered list for all your various account links.  I'm talking about social media links, but it could be any type link.  The code will be in this format:
 
@@ -34,7 +34,9 @@ At the bottom of the file, create a numbered list for all your various account l
 [4]: https://www.facebook.com/your_contact_info
 ```
 
-The instructions to drag and drop the icon file into a repo issue works the same for any image file you might want to add, including screenshots from your project pages, and test results. Here's a picture I took in my backyard.
+The instructions to drag and drop the icon file into a repo issue works the same for any image file you might want to add, including screenshots from your project pages, and test results.
+
+Here's a picture I took in my backyard.
 
 ![img_4286a-350x233](https://cloud.githubusercontent.com/assets/17016297/18681463/da12c5c2-7f2d-11e6-8c53-4cb2e8914b3a.jpg)
 
