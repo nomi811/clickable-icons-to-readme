@@ -30,9 +30,11 @@ At the bottom of the file, create a numbered list for all your various account l
 [4]: https://www.facebook.com/your_contact_info
 ```
 
-The instructions to drag and drop the icon file into a repo issue works the same for any image file you might want to add, including screenshots from your project pages, and test results. The code needs to be a tiny bit different.
+The instructions to drag and drop the icon file into a repo issue works the same for any image file you might want to add, including screenshots from your project pages, and test results. Here's a picture I took in my backyard.
 
 ![img_4286a-350x233](https://cloud.githubusercontent.com/assets/17016297/18681463/da12c5c2-7f2d-11e6-8c53-4cb2e8914b3a.jpg)
+
+The code needs to be a tiny bit different.
 
 `![img_4286a-350x233](https://cloud.githubusercontent.com/assets/17016297/18681463/da12c5c2-7f2d-11e6-8c53-4cb2e8914b3a.jpg)`
 
