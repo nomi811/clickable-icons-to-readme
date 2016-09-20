@@ -6,6 +6,8 @@ They need to be in a PNG, GIF, JPG, DOCX, PPTX, XLSX, TXT, PDF, or ZIP format.  
 
 On your repo that you want to add the icons to, create an issue.  Drag and drop the icon file into the issue window.  Wait for it to download, then it will give you a link.  Copy and paste this link into your Readme file at the location you want the icon to appear. I had mine all in a row with pipe symbols in between and lines on top and bottom. It looks like this:
 
+PS this is a screenshot, so it's not clickable. Go to the bottom of the page to try it out.
+
 ![screen shot 2016-09-20 at 10 58 23 am](https://cloud.githubusercontent.com/assets/17016297/18678323/49cdf790-7f21-11e6-9b23-2fe9963df9db.png)
 
 And the code looks like this:
@@ -39,3 +41,7 @@ The code needs to be a tiny bit different.
 `![img_4286a-350x233](https://cloud.githubusercontent.com/assets/17016297/18681463/da12c5c2-7f2d-11e6-8c53-4cb2e8914b3a.jpg)`
 
 Hope this was helpful!!
+
+[1]: http://www.github.com/your_contact_info
+
+[![github](https://cloud.githubusercontent.com/assets/17016297/18654066/e5c135dc-7ea3-11e6-8cf6-6a8f628897bc.png)][1]
