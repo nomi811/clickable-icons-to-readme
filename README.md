@@ -1,4 +1,4 @@
-# How to add clickable icons to your Readme file on Github
+# How to add clickable icons and images to your Readme file on Github
 
 First you need to get ahold of some icons that you want to use.  Do a Google search for free icons, or make some yourself like I did.
 
@@ -40,7 +40,7 @@ Here's a picture I took in my backyard.
 
 ![img_4286a-350x233](https://cloud.githubusercontent.com/assets/17016297/18681463/da12c5c2-7f2d-11e6-8c53-4cb2e8914b3a.jpg)
 
-The code needs to be a tiny bit different.
+The code needs to be a tiny bit different. Take off the enclosing square brackets, and no need for the bracketed number at the end. Basically, it is the link generated in the issue without anything added.
 
 `![img_4286a-350x233](https://cloud.githubusercontent.com/assets/17016297/18681463/da12c5c2-7f2d-11e6-8c53-4cb2e8914b3a.jpg)`
 
